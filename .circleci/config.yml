@@ -62,3 +62,6 @@ workflows:
           context:
             - CICD_WORKSHOP_DOCKER
             - CICD_WORKSHOP_SNYK
+            
+            
+            
